@@ -1,0 +1,40 @@
+.carousel-inner, .carousel-item {
+    height: 100vh; }
+  
+  .carousel-item img {
+    height: 100%;
+    object-fit: cover; }
+  
+  .card img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover; }
+  
+  .products2 .card .card-body h5 {
+    color: #fff;
+    font-size: 25px; }
+  
+  .products4 {
+    background: #eff2f5; }
+    .products4 .card {
+      background: #eff2f5;
+      border: none; }
+      .products4 .card a {
+        font-size: 0;
+        padding: 5px; }
+      .products4 .card i {
+        font-size: 20px; }
+  
+  .footer {
+    Background: #C3D7E7; }
+  
+  .carousel-item .carousel-caption {
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    right: auto;
+    bottom: auto;
+    padding-top: 0;
+    padding-bottom: 0; }
+  .carousel-item h3 {
+    font-size: 260px; }
